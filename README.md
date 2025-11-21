@@ -44,7 +44,7 @@ SettleUp uses a greedy algorithm approach:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/settleup.git
+   git clone https://github.com/VishnuKC26/tx-settlement-miniproject.git
    cd settleup
    ```
 
